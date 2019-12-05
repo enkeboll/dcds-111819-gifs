@@ -17,7 +17,7 @@ Your image here!
 Your image here!
 
 ### Laurent
-Your image here!
+![](images/Laurent.jfif) 
 
 ### Justin
 Your image here!
