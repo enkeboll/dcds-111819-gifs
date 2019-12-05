@@ -77,4 +77,4 @@ Your image here!
 Your image here!
 
 ### Darian
-Your image here!
+![almost friday!!](images/darianm.gif)
