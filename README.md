@@ -32,7 +32,7 @@ Your image here!
 Your image here!
 
 ### Andrew
-Your image here!
+![tfw Friday's almost here](images/andrew.gif)
 
 ### Stephen
 Your image here!
@@ -77,4 +77,3 @@ Your image here!
 Your image here!
 
 ### Darian
-
