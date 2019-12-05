@@ -14,7 +14,7 @@
 Your image here!
 
 ### Nate
-Your image here!
+![Yay!!!!](images/nate.gif)
 
 ### Laurent
 Your image here!
