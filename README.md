@@ -35,7 +35,7 @@ Your image here!
 Your image here!
 
 ### Stephen
-Your image here!
+https://media1.tenor.com/images/00dadd556b6ae9a92b4fb22011e2c646/tenor.gif?itemid=9457546
 
 ### Alex C
 Your image here!
