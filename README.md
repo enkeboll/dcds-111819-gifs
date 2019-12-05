@@ -57,7 +57,7 @@ Your image here!
 Your image here!
 
 ### Nimu
-Your image here!
+![tfw Friday's almost here](images/Nimu.gif)
 
 ### Michael
 Your image here!
