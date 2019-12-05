@@ -38,7 +38,7 @@ Your image here!
 Your image here!
 
 ### Alex C
-Your image here!
+Thursday GIF - Alex Cheng.gif
 
 ### Nick
 Your image here!
