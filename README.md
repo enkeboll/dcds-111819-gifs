@@ -23,7 +23,7 @@ Your image here!
 Your image here!
 
 ### Jeff
-Your image here!
+![tfw Friday's almost here](images/jeff.gif)
 
 ### Raj
 Your image here!
