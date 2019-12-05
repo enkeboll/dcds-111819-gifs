@@ -66,7 +66,7 @@ Your image here!
 Your image here!
 
 ### Aaron
-Your image here!
+![tfw Friday's almost here](images/thursday_mood.jfif)
 
 ### VJ
 Your image here!
