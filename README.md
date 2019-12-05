@@ -78,3 +78,4 @@ Your image here!
 
 ### Darian
 
+![almost friday!!](images/darianm.gif)
