@@ -38,7 +38,7 @@ Your image here!
 Your image here!
 
 ### Alex C
-![tfw Friday's almost here](https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday GIF - Alex Cheng.gif)
+![](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday GIF - Alex Cheng.gif)
 
 ### Nick
 ![tfw Friday's almost here](images/nick.gif)
