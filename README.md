@@ -8,7 +8,7 @@
 1. Last, issue a pull request for me (Andy) to review using the Github.com interface.
 
 ### Andy
-![tfw Friday's almost here](images/andy.gif)
+Your image here!
 
 ### Anesu
 Your image here!
