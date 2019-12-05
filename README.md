@@ -20,7 +20,7 @@ Your image here!
 Your image here!
 
 ### Justin
-Your image here!
+![Let's party fam](images/letspartyfam.gif)
 
 ### Jeff
 Your image here!
