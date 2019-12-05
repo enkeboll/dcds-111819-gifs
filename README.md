@@ -29,7 +29,7 @@ Your image here!
 Your image here!
 
 ### Jill
-![You got this!](images/jill.gif)
+![You got this](images/jill.gif)
 
 ### Andrew
 Your image here!
