@@ -12,6 +12,7 @@
 
 ### Anesu
 Your image here!
+![tfw Friday's almost here](images/anesu.gif)
 
 ### Nate
 Your image here!
@@ -23,7 +24,7 @@ Your image here!
 Your image here!
 
 ### Jeff
-Your image here!
+![tfw Friday's almost here](images/jeff.gif)
 
 ### Raj
 Your image here!
@@ -38,10 +39,10 @@ Your image here!
 Your image here!
 
 ### Alex C
-![](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday%20GIF%20-%20Alex%20Cheng.gif)
+![I don't know why the GIF does not preview...but the link works!](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday_GIF_Alex_Cheng.gif)
 
 ### Nick
-Your image here!
+![tfw Friday's almost here](images/nick.gif)
 
 ### Akshay
 Your image here!
