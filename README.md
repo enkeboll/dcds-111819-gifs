@@ -38,7 +38,7 @@ Your image here!
 Your image here!
 
 ### Alex C
-Your image here!
+Thursday GIF - Alex Cheng.gif
 
 ### Nick
 Your image here!
@@ -50,7 +50,7 @@ Your image here!
 Your image here!
 
 ### Stu
-Your image here!
+![tfw Friday's almost here](images/Stu.gif)
 
 ### Alex K
 Your image here!
@@ -77,4 +77,4 @@ Your image here!
 Your image here!
 
 ### Darian
-Your image here!
+
