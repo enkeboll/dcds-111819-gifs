@@ -38,7 +38,7 @@ Your image here!
 Your image here!
 
 ### Alex C
-![](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday GIF - Alex Cheng.gif)
+![test](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday_GIF_Alex_Cheng.gif)
 
 ### Nick
 Your image here!
