@@ -14,7 +14,7 @@
 Your image here!
 
 ### Nate
-Your image here!
+Yay!!!!(https://github.com/enkeboll/dcds-111819-gifs/blob/nate/images/nate.jpg)
 
 ### Laurent
 Your image here!
