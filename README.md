@@ -41,7 +41,7 @@ Your image here!
 Thursday GIF - Alex Cheng.gif
 
 ### Nick
-Your image here!
+![tfw Friday's almost here](images/nick.gif)
 
 ### Akshay
 Your image here!
