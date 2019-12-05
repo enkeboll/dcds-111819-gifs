@@ -53,7 +53,7 @@ Your image here!
 Your image here!
 
 ### Alex K
-Your image here!
+![tfw Friday is coming](images/alex.gif)
 
 ### Nimu
 Your image here!
