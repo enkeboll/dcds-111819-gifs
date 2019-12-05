@@ -50,7 +50,7 @@ Your image here!
 Your image here!
 
 ### Stu
-Your image here!
+![tfw Friday's almost here](images/Stu.gif)
 
 ### Alex K
 Your image here!
