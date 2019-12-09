@@ -15,7 +15,7 @@ Your image here!
 ![tfw Friday's almost here](images/anesu.gif)
 
 ### Nate
-Your image here!
+![Yay!!!!](images/nate.jpeg)
 
 ### Laurent
 ![](images/Laurent.jfif) 
