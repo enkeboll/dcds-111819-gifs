@@ -54,7 +54,7 @@ Your image here!
 ![tfw Friday's almost here](images/Stu.gif)
 
 ### Alex K
-Your image here!
+![tfw Friday is coming](images/alex.gif)
 
 ### Nimu
 ![tfw Friday's almost here](images/Nimu.gif)
