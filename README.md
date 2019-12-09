@@ -48,7 +48,7 @@ Your image here!
 Your image here!
 
 ### Muoyo
-Your image here!
+![Grateful for every day!](./images/muoyo.gif)
 
 ### Stu
 ![tfw Friday's almost here](images/Stu.gif)
