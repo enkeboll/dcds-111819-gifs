@@ -21,7 +21,7 @@ Your image here!
 ![](images/Laurent.jfif) 
 
 ### Justin
-Your image here!
+![Let's party fam](images/letspartyfam.gif)
 
 ### Jeff
 ![tfw Friday's almost here](images/jeff.gif)
