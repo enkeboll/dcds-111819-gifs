@@ -15,13 +15,13 @@ Your image here!
 ![tfw Friday's almost here](images/anesu.gif)
 
 ### Nate
-Your image here!
+![Yay!!!!](images/nate.jpeg)
 
 ### Laurent
-Your image here!
+![](images/Laurent.jfif) 
 
 ### Justin
-Your image here!
+![Let's party fam](images/letspartyfam.gif)
 
 ### Jeff
 ![tfw Friday's almost here](images/jeff.gif)
@@ -33,12 +33,13 @@ Your image here!
 ![You got this](images/jill.gif)
 
 ### Andrew
-Your image here!
+![tfw Friday's almost here](images/andrew.gif)
 
 ### Stephen
 Your image here!
 
 ### Alex C
+
 ![I don't know why the GIF does not preview...but the link works!](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday_GIF_Alex_Cheng.gif)
 
 ### Nick
@@ -48,16 +49,16 @@ Your image here!
 Your image here!
 
 ### Muoyo
-Your image here!
+![Grateful for every day!](./images/muoyo.gif)
 
 ### Stu
 ![tfw Friday's almost here](images/Stu.gif)
 
 ### Alex K
-Your image here!
+![tfw Friday is coming](images/alex.gif)
 
 ### Nimu
-Your image here!
+![tfw Friday's almost here](images/Nimu.gif)
 
 ### Michael
 Your image here!
@@ -66,7 +67,7 @@ Your image here!
 Your image here!
 
 ### Aaron
-Your image here!
+![tfw Friday's almost here](images/thursday_mood.jfif)
 
 ### VJ
 Your image here!
@@ -78,5 +79,4 @@ Your image here!
 Your image here!
 
 ### Darian
-
 ![almost friday!!](images/darianm.gif)
