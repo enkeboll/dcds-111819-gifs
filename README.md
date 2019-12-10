@@ -30,7 +30,7 @@ Your image here!
 Your image here!
 
 ### Jill
-Your image here!
+![You got this](images/jill.gif)
 
 ### Andrew
 ![tfw Friday's almost here](images/andrew.gif)
@@ -39,7 +39,8 @@ Your image here!
 Your image here!
 
 ### Alex C
-![I don't know why the GIF does not preview...but the link works!](https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday_GIF_Alex_Cheng.gif)
+
+![I don't know why the GIF does not preview...but the link works!](/https://github.com/enkeboll/dcds-111819-gifs/blob/master/images/Thursday_GIF_Alex_Cheng.gif)
 
 ### Nick
 ![tfw Friday's almost here](images/nick.gif)
