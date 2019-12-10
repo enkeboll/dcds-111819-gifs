@@ -35,7 +35,7 @@ Your image here!
 Your image here!
 
 ### Stephen
-(images/stephen.gif)
+![I need to read the instructions next time](images/stephen.gif)
 
 ### Alex C
 Your image here!
