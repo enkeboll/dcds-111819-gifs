@@ -45,6 +45,9 @@ Your image here!
 ### Nick
 ![tfw Friday's almost here](images/nick.gif)
 
+### Nick2
+![shutup andy](images/agif.gif)
+
 ### Akshay
 Your image here!
 
