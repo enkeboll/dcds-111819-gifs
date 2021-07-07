@@ -36,7 +36,7 @@ Your image here!
 ![tfw Friday's almost here](images/andrew.gif)
 
 ### Stephen
-Your image here!
+![I need to read the instructions next time](images/stephen.gif)
 
 ### Alex C
 
